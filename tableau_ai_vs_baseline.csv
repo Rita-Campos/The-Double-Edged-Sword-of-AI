@@ -1,0 +1,7 @@
+Metric,Model,Value
+Precision,Baseline (fixed rule),0.920211170436139
+Recall,Baseline (fixed rule),0.6515312407084909
+F1,Baseline (fixed rule),0.7629065950462548
+Precision,AI classifier (Random Forest),0.9984714024882171
+Recall,AI classifier (Random Forest),0.9988106868283566
+F1,AI classifier (Random Forest),0.9986410158406591
